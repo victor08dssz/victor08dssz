@@ -11,6 +11,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-![Snake animation](https://github.com/victor08dssz/victor08dssz.git/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/victor08dssz/victor08dssz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
