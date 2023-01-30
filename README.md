@@ -22,6 +22,6 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=VICTOR08DSSZ&repo=VICTOR08DSSZ&theme=react)](https://github.com/victor08dssz/victor08dssz)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=victor08dssz&repo=victor08dssz&theme=react)](https://github.com/victor08dssz/victor08dssz)
 
 
