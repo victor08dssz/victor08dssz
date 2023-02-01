@@ -18,6 +18,8 @@
 
 </div>
 
+  
+  
   ![Snake animation](https://github.com/victor08dssz/victor08dssz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
